@@ -1,0 +1,7 @@
+INSIDE THE PROJECT FOLDER -->
+
+to create the virtual environment:
+python -m venv venv   
+
+to activate the virtual environment:
+venv\Scripts\activate
